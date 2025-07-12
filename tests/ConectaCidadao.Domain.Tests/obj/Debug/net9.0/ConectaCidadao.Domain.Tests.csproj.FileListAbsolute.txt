@@ -100,3 +100,4 @@ C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev
 C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Domain.Tests\obj\Debug\net9.0\ConectaCidadao.Domain.Tests.pdb
 C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Domain.Tests\obj\Debug\net9.0\ConectaCidadao.Domain.Tests.genruntimeconfig.cache
 C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Domain.Tests\obj\Debug\net9.0\ref\ConectaCidadao.Domain.Tests.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Domain.Tests\obj\Debug\net9.0\ConectaCidadao.Domain.Tests.sourcelink.json

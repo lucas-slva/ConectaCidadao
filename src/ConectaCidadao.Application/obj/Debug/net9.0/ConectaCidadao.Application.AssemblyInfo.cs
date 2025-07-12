@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConectaCidadao.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7e8fad7a7076ea4b623f1f9cf23a966f223f464")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a92da405ffc5774d4929586c7157e39a34e44a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConectaCidadao.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConectaCidadao.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

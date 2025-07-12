@@ -104,3 +104,15 @@ C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev
 C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\obj\Debug\net9.0\ConectaCidadao.Application.Tests.pdb
 C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\obj\Debug\net9.0\ConectaCidadao.Application.Tests.genruntimeconfig.cache
 C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\obj\Debug\net9.0\ref\ConectaCidadao.Application.Tests.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\tests\ConectaCidadao.Application.Tests\obj\Debug\net9.0\ConectaCidadao.Application.Tests.sourcelink.json

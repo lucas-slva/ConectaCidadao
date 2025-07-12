@@ -13,3 +13,4 @@ C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev
 C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Application\obj\Debug\net9.0\refint\ConectaCidadao.Application.dll
 C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Application\obj\Debug\net9.0\ConectaCidadao.Application.pdb
 C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Application\obj\Debug\net9.0\ref\ConectaCidadao.Application.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Application\obj\Debug\net9.0\ConectaCidadao.Application.sourcelink.json
