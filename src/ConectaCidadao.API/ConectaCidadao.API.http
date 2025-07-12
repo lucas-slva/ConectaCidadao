@@ -1,0 +1,6 @@
+@ConectaCidadao.API_HostAddress = http://localhost:5120
+
+GET {{ConectaCidadao.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

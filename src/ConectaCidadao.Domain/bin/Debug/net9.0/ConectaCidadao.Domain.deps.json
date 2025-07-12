@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConectaCidadao.Domain/1.0.0": {
+        "runtime": {
+          "ConectaCidadao.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConectaCidadao.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

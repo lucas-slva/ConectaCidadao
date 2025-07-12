@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "najT6C/VJDY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lider\\OneDrive\\Documentos\\Estudos\\Faculdade\\Atividade extensionista\\Dev\\ConectaCidadao\\src\\ConectaCidadao.API\\ConectaCidadao.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lider\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\lider\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

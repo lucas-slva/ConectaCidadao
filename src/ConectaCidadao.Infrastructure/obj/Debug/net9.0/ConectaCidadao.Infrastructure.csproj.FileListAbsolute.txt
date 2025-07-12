@@ -1,0 +1,17 @@
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\bin\Debug\net9.0\ConectaCidadao.Infrastructure.deps.json
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\bin\Debug\net9.0\ConectaCidadao.Infrastructure.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\bin\Debug\net9.0\ConectaCidadao.Infrastructure.pdb
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\bin\Debug\net9.0\ConectaCidadao.Application.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\bin\Debug\net9.0\ConectaCidadao.Domain.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\bin\Debug\net9.0\ConectaCidadao.Application.pdb
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\bin\Debug\net9.0\ConectaCidadao.Domain.pdb
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\obj\Debug\net9.0\ConectaCidadao.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\obj\Debug\net9.0\ConectaCidadao.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\obj\Debug\net9.0\ConectaCidadao.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\obj\Debug\net9.0\ConectaCidadao.Infrastructure.AssemblyInfo.cs
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\obj\Debug\net9.0\ConectaCidadao.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\obj\Debug\net9.0\ConectaC.A6230DDF.Up2Date
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\obj\Debug\net9.0\ConectaCidadao.Infrastructure.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\obj\Debug\net9.0\refint\ConectaCidadao.Infrastructure.dll
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\obj\Debug\net9.0\ConectaCidadao.Infrastructure.pdb
+C:\Users\lider\OneDrive\Documentos\Estudos\Faculdade\Atividade extensionista\Dev\ConectaCidadao\src\ConectaCidadao.Infrastructure\obj\Debug\net9.0\ref\ConectaCidadao.Infrastructure.dll

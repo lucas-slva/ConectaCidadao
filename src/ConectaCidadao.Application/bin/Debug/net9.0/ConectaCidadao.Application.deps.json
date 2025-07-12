@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConectaCidadao.Application/1.0.0": {
+        "dependencies": {
+          "ConectaCidadao.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ConectaCidadao.Application.dll": {}
+        }
+      },
+      "ConectaCidadao.Domain/1.0.0": {
+        "runtime": {
+          "ConectaCidadao.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConectaCidadao.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConectaCidadao.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
