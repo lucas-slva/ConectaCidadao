@@ -63,8 +63,11 @@ Após executar, a API estará disponível em `http://localhost:5120`. A document
 - `DELETE /api/conteudos/{id}` - Deleta um conteúdo.
 
 ## 📈 **Próximas Etapas e Funcionalidades Planejadas**
-- [ ] **Implementação do CRUD Completo:** Finalizar os endpoints de POST, PUT e DELETE.
-- [ ] **Validação de Dados:** Adicionar validação para os dados de entrada usando FluentValidation.
-- [ ] **Testes Unitários:** Implementar os testes de unidade com xUnit para as camadas de Domínio e Aplicação.
-- [ ] **Persistência de Dados:** Migrar do provedor In-Memory para um banco de dados persistente (SQLite ou PostgreSQL).
-- [ ] **Autenticação e Autorização:** Implementar segurança nos endpoints com JWT.
+- [x] Estrutura Clean Architecture
+- [x] **CRUD Completo** de Conteúdos
+- [x] **Repository Pattern** (`IConteudoRepository` + `ConteudoRepository`)
+- [x] **DTOs** (Create/Update/Response)
+- [x] **Validação** com FluentValidation + `ValidationProblem` (400)
+- [x] **Documentação**: OpenAPI (`/openapi/v1.json`) + **Swagger UI** (`/swagger`)
+- [x] **Arquivo .http** com exemplos de requisição
+- [ ] **Testes Unitários** (Domain, Application e Endpoints – xUnit)
