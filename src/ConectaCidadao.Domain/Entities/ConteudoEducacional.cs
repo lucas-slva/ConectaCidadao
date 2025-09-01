@@ -3,14 +3,13 @@
 public class ConteudoEducacional
 {
     public Guid Id { get; set; }
+    public string Titulo { get; set; } = default!;
+    public string? Descricao { get; set; }
+    public string? Categoria { get; set; }
+    public string? Link { get; set; }
+    public string? Autor { get; set; }
+    public List<string> Tags { get; set; } = new();
 
-    public string Titulo { get; set; } = string.Empty;
-
-    public string Url { get; set; } = string.Empty;
-
-    public string Descricao { get; set; } = string.Empty;
-
-    public string Categoria { get; set; } = string.Empty;
-
-    public DateTime DataCriacao { get; set; }
+    public DateTimeOffset CreatedAt { get; set; } = DateTimeOffset.UtcNow;
+    public DateTimeOffset? UpdatedAt { get; set; }
 }

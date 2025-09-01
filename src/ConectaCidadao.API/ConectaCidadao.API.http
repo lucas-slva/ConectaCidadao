@@ -1,6 +1,59 @@
 @ConectaCidadao.API_HostAddress = http://localhost:5120
+@id = {{id}}
 
-GET {{ConectaCidadao.API_HostAddress}}/weatherforecast/
+### Listar todos
+GET {{ConectaCidadao.API_HostAddress}}/api/conteudos
 Accept: application/json
 
 ###
+
+### Criar (válido)
+POST {{ConectaCidadao.API_HostAddress}}/api/conteudos
+Content-Type: application/json
+
+{
+  "titulo": "Guia de Segurança Digital",
+  "descricao": "Boas práticas de senhas e 2FA.",
+  "categoria": "Segurança",
+  "link": "https://exemplo.org/guia",
+  "autor": "Equipe ConectaCidadao",
+  "tags": ["segurança","senhas"]
+}
+
+###
+
+### Criar (inválido: link ruim e tag repetida) — espera 400 ValidationProblem
+POST {{ConectaCidadao.API_HostAddress}}/api/conteudos
+Content-Type: application/json
+
+{
+  "titulo": "",
+  "link": "not-a-url",
+  "tags": ["abc","ABC"]
+}
+
+###
+
+### Buscar por Id (cole o GUID de retorno do POST acima em {{id}})
+GET {{ConectaCidadao.API_HostAddress}}/api/conteudos/{{id}}
+Accept: application/json
+
+###
+
+### Atualizar
+PUT {{ConectaCidadao.API_HostAddress}}/api/conteudos/{{id}}
+Content-Type: application/json
+
+{
+  "titulo": "Guia de Segurança Digital (revisto)",
+  "descricao": "Inclui gestores de senha.",
+  "categoria": "Segurança",
+  "link": "https://exemplo.org/guia",
+  "autor": "Equipe ConectaCidadao",
+  "tags": ["segurança","senhas","gestores"]
+}
+
+###
+
+### Excluir
+DELETE {{ConectaCidadao.API_HostAddress}}/api/conteudos/{{id}}
