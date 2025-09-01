@@ -70,4 +70,6 @@ Após executar, a API estará disponível em `http://localhost:5120`. A document
 - [x] **Validação** com FluentValidation + `ValidationProblem` (400)
 - [x] **Documentação**: OpenAPI (`/openapi/v1.json`) + **Swagger UI** (`/swagger`)
 - [x] **Arquivo .http** com exemplos de requisição
-- [ ] **Testes Unitários** (Domain, Application e Endpoints – xUnit)
+- [x] Testes dos Validators (FluentValidation)
+- [x] Testes de Domínio (ConteudoEducacional)
+- [x] Testes do Repository (EF InMemory)

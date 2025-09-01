@@ -14,6 +14,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConectaCidadao.API", "src\ConectaCidadao.API\ConectaCidadao.API.csproj", "{B5F415ED-5A13-4C23-8D54-0916947B855C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0AB3BF05-4346-4AA6-1389-037BE0695223}"
+	ProjectSection(SolutionItems) = preProject
+		tests\Validators = tests\Validators
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConectaCidadao.Domain.Tests", "tests\ConectaCidadao.Domain.Tests\ConectaCidadao.Domain.Tests.csproj", "{152F01D8-45E7-4F85-940D-906AF5940926}"
 EndProject
